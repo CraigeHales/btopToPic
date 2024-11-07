@@ -1,0 +1,6 @@
+[submodule "vt100-parser"]
+	path = vt100-parser
+	url = https://github.com/CraigeHales/vt100-parser.git
+[submodule "bpytop"]
+	path = bpytop
+	url = https://github.com/CraigeHales/bpytop.git
